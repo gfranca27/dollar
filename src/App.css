@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial;
+}
+
+body {
+  background-color: #46e08e; 
+}
+
+.Container {
+  position: relative;
+  padding-top: 80px;
+  top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50vw;
+  height: 60vh;
+  background-color: #f7f7f7;
+  min-width: 450px;
+  min-height: 500px;
+}
+
+.Container h1 {
+  text-align: center;
+}
